@@ -1,0 +1,432 @@
+2025-05-09 00:39:48,408 - ERROR - API Key Verification Failed: {
+  "id": "ntFfxhj-4yUbBN-93cb41006bda3d31-PDX",
+  "error": {
+    "message": "Invalid API key provided. You can find your API key at https://api.together.xyz/settings/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_api_key"
+  }
+}
+2025-05-09 00:39:48,973 - ERROR - API Key Verification Failed: {
+  "id": "ntFfxsi-4yUbBN-93cb410429caf7f7-PDX",
+  "error": {
+    "message": "Invalid API key provided. You can find your API key at https://api.together.xyz/settings/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_api_key"
+  }
+}
+2025-05-09 00:40:40,596 - ERROR - API Key Verification Failed: {
+  "id": "ntFgEDy-4yUbBN-93cb4246dadeb2b5-PDX",
+  "error": {
+    "message": "Invalid API key provided. You can find your API key at https://api.together.xyz/settings/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_api_key"
+  }
+}
+2025-05-09 00:40:41,358 - ERROR - API Key Verification Failed: {
+  "id": "ntFgET6-4yUbBN-93cb424bacc83d1f-PDX",
+  "error": {
+    "message": "Invalid API key provided. You can find your API key at https://api.together.xyz/settings/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_api_key"
+  }
+}
+2025-05-09 00:41:02,714 - ERROR - API Key Verification Failed: {
+  "id": "ntFgLnQ-4yUbBN-93cb42d0cf483d2f-BLR",
+  "error": {
+    "message": "Invalid API key provided. You can find your API key at https://api.together.xyz/settings/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_api_key"
+  }
+}
+2025-05-09 18:53:37,152 - ERROR - API Key Verification Failed: {
+  "id": "ntMUKWq-4yUbBN-93d1833d49653a45-PDX",
+  "error": {
+    "message": "Invalid API key provided. You can find your API key at https://api.together.xyz/settings/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": "invalid_api_key"
+  }
+}
+2025-05-09 20:17:36,106 - ERROR - Invalid key length: 17
+2025-05-09 20:18:28,762 - ERROR - Invalid key length: 17
+2025-05-09 20:23:57,855 - ERROR - Invalid key length: 17
+2025-05-09 20:23:57,856 - ERROR - Invalid key length: 17
+2025-05-09 20:23:59,164 - ERROR - Invalid key length: 17
+2025-05-09 22:42:43,712 - INFO - Use pytorch device_name: cpu
+2025-05-09 22:42:43,714 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-09 22:42:44,476 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-09 22:42:47,879 - INFO - Loading faiss with AVX2 support.
+2025-05-09 22:42:47,991 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-09 22:42:48,012 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-09 22:46:09,183 - INFO - Use pytorch device_name: cpu
+2025-05-09 22:46:09,183 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-09 22:46:09,799 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-09 22:46:12,218 - INFO - Loading faiss with AVX2 support.
+2025-05-09 22:46:12,261 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-09 22:46:12,276 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-09 22:46:22,236 - ERROR - Hugging Face API Error: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/google/flan-t5-base
+2025-05-09 22:46:39,847 - ERROR - Hugging Face API Error: 404 Client Error: Not Found for url: https://api-inference.huggingface.co/models/google/flan-t5-base
+2025-05-09 23:24:31,287 - ERROR - API returned error: 401 - {"error":{"message":"Unauthorized"}}
+2025-05-11 13:57:53,453 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 13:58:04,905 - INFO - Use pytorch device_name: cpu
+2025-05-11 13:58:04,906 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-11 13:58:05,259 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-11 13:58:08,543 - INFO - Loading faiss with AVX2 support.
+2025-05-11 13:58:08,650 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-11 13:58:08,667 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-11 13:58:26,828 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:02:51,893 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:05:56,515 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:10:16,943 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:10:55,239 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:11:21,656 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:15:05,211 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:15:52,703 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:16:00,278 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:16:30,078 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:17:20,046 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:19:21,569 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:20:01,712 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:20:07,544 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:28:09,123 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:28:54,436 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:29:57,917 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:35:31,707 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:47:39,583 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:48:31,225 - ERROR - Generation Error: 422 Client Error: Unprocessable Entity for url: https://router.huggingface.co/hf-inference/models/HuggingFaceH4/zephyr-7b-beta (Request ID: Root=1-68206b6c-5c25a6956a35a6cc75f5e6b1;7935ca90-c1ab-4ca6-a5fc-367aed114646)
+
+Input validation error: `inputs` tokens + `max_new_tokens` must be <= 32768. Given: 54151 `inputs` tokens and 512 `max_new_tokens`
+{"error":"Input validation error: `inputs` tokens + `max_new_tokens` must be <= 32768. Given: 54151 `inputs` tokens and 512 `max_new_tokens`","error_type":"validation"}
+
+2025-05-11 14:49:21,793 - INFO - Zephyr model loaded
+2025-05-11 14:49:29,388 - INFO - Zephyr model loaded
+2025-05-11 14:49:29,438 - ERROR - Response error: Missing some input keys: {'chat_history'}
+2025-05-11 14:49:38,383 - INFO - Zephyr model loaded
+2025-05-11 14:49:38,438 - ERROR - Response error: Missing some input keys: {'chat_history'}
+2025-05-11 14:49:53,049 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:49:59,021 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:50:20,874 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:50:28,623 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:50:45,420 - INFO - Zephyr model loaded
+2025-05-11 14:50:49,475 - INFO - Zephyr model loaded
+2025-05-11 14:50:49,525 - ERROR - Response error: Missing some input keys: {'chat_history'}
+2025-05-11 14:50:53,228 - INFO - Zephyr model loaded
+2025-05-11 14:50:53,282 - ERROR - Response error: Missing some input keys: {'chat_history'}
+2025-05-11 14:50:57,104 - INFO - Zephyr model loaded
+2025-05-11 14:50:57,158 - ERROR - Response error: Missing some input keys: {'chat_history'}
+2025-05-11 14:51:01,584 - INFO - Zephyr model loaded
+2025-05-11 14:51:01,638 - ERROR - Response error: Missing some input keys: {'chat_history'}
+2025-05-11 14:51:10,858 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:51:14,542 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:51:20,708 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:55:48,392 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:55:55,161 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:55:55,653 - ERROR - Generation Error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/HuggingFaceH4/zephyr-7b-beta (Request ID: Root=1-68206d28-6242fc3836f598a564f3f181;0302f709-0894-43d5-b70a-a3579c80a632)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 14:56:02,368 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:56:02,844 - ERROR - Generation Error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/HuggingFaceH4/zephyr-7b-beta (Request ID: Root=1-68206d2f-1c187b9579570cdd2f32b0a7;fdc356c7-12ef-4f92-b580-d2e0a1cab8dd)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 14:56:11,490 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:56:12,378 - ERROR - Generation Error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/HuggingFaceH4/zephyr-7b-beta (Request ID: Root=1-68206d39-7403ba550fb56c5931d3d253;24e9566c-47ff-4765-9d4d-bf61ce6cec2f)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 14:56:15,429 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:56:19,192 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:56:20,016 - ERROR - Generation Error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/HuggingFaceH4/zephyr-7b-beta (Request ID: Root=1-68206d41-5c6778d8289b99d40d2918e2;7041ffd9-e434-43c2-aac4-880361211c4c)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 14:56:55,737 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 14:56:56,642 - ERROR - Generation Error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/HuggingFaceH4/zephyr-7b-beta (Request ID: Root=1-68206d65-40cf10292ad58e3872326bf3;ee85a2cb-cecf-4526-bf03-0f67dd79e4a7)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 14:58:42,694 - INFO - Falcon 7B Instruct model loaded
+2025-05-11 14:58:47,375 - INFO - Falcon 7B Instruct model loaded
+2025-05-11 14:58:47,423 - ERROR - Response error: Missing some input keys: {'chat_history'}
+2025-05-11 14:59:00,973 - INFO - Falcon 7B Instruct model loaded
+2025-05-11 14:59:01,021 - ERROR - Response error: Missing some input keys: {'chat_history'}
+2025-05-11 15:00:42,679 - INFO - Falcon 7B Instruct model loaded
+2025-05-11 15:00:46,989 - INFO - Falcon 7B Instruct model loaded
+2025-05-11 15:00:47,039 - ERROR - Response error: Missing some input keys: {'chat_history'}
+2025-05-11 15:01:27,912 - INFO - Falcon 7B Instruct model loaded
+2025-05-11 15:01:27,970 - ERROR - Response error: Missing some input keys: {'chat_history'}
+2025-05-11 15:01:50,859 - INFO - Falcon 7B Instruct model loaded
+2025-05-11 15:02:02,037 - INFO - Falcon 7B Instruct model loaded
+2025-05-11 15:02:03,473 - ERROR - Response error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/tiiuae/falcon-7b-instruct (Request ID: Root=1-68206e98-2cf841e9263c1b71533d3337;2081b044-cf62-4158-94c6-ee9759554da9)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 15:03:09,390 - INFO - GPT-2 model loaded
+2025-05-11 15:03:14,107 - INFO - GPT-2 model loaded
+2025-05-11 15:03:15,657 - ERROR - Response error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/gpt2 (Request ID: Root=1-68206ee0-365e4c2b50a67ec32ce20baa;f36b39b4-4980-4fc1-846e-f255a311ccef)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 15:04:17,256 - INFO - SmolLM2-1.7B-Instruct model loaded
+2025-05-11 15:04:20,873 - INFO - SmolLM2-1.7B-Instruct model loaded
+2025-05-11 15:04:22,188 - ERROR - Response error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/HuggingFaceTB/SmolLM2-1.7B-Instruct (Request ID: Root=1-68206f23-3e49d72f77e487d76d0e1d23;b0cac155-f432-40c8-ae20-c158dad4eb2a)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 15:04:40,456 - INFO - SmolLM2-1.7B-Instruct model loaded
+2025-05-11 15:04:47,187 - INFO - Use pytorch device_name: cpu
+2025-05-11 15:04:47,187 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-11 15:04:47,516 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-11 15:04:50,065 - INFO - Loading faiss with AVX2 support.
+2025-05-11 15:04:50,222 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-11 15:04:50,237 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-11 15:04:55,836 - INFO - SmolLM2-1.7B-Instruct model loaded
+2025-05-11 15:04:58,656 - ERROR - Response error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/HuggingFaceTB/SmolLM2-1.7B-Instruct (Request ID: Root=1-68206f47-61126a293ced6585372bd774;02145d38-ee3f-4642-9906-e1fbead7823a)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 15:09:06,209 - INFO - SmolLM2-1.7B-Instruct model loaded
+2025-05-11 15:09:32,878 - INFO - SmolLM2-1.7B-Instruct model loaded
+2025-05-11 15:09:33,875 - ERROR - Response error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/HuggingFaceTB/SmolLM2-1.7B-Instruct (Request ID: Root=1-6820705a-0de6efad3bc6797f30d45759;e58e9541-7ba1-41be-88aa-992c568b83d0)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 15:11:51,997 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 15:11:55,772 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 15:11:57,552 - ERROR - Generation Error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/HuggingFaceH4/zephyr-7b-beta (Request ID: Root=1-682070ea-10d0a0731a04308d6a35c241;a8d3cbde-d01b-468c-b83d-00c0b32faa0f)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 19:49:00,082 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 19:49:00,565 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 19:49:10,477 - INFO - Use pytorch device_name: cpu
+2025-05-11 19:49:10,477 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-11 19:49:11,141 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-11 19:49:14,614 - INFO - Loading faiss with AVX2 support.
+2025-05-11 19:49:14,670 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-11 19:49:14,689 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-11 19:49:28,520 - INFO - HuggingFaceHub Zephyr model initialized successfully
+2025-05-11 19:49:33,842 - ERROR - Generation Error: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/HuggingFaceH4/zephyr-7b-beta (Request ID: Root=1-6820b1fa-26cb53bd4ef4a623416f10df;9c809d27-5ddd-4672-bac0-93abc5b627d1)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+2025-05-11 19:57:10,945 - INFO - HuggingFaceHub google/flan-t5-large model initialized successfully
+2025-05-11 19:57:10,945 - INFO - HuggingFaceHub google/flan-t5-large model initialized successfully
+2025-05-11 19:57:16,804 - INFO - Use pytorch device_name: cpu
+2025-05-11 19:57:16,805 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-11 19:57:17,084 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-11 19:57:19,038 - INFO - Loading faiss with AVX2 support.
+2025-05-11 19:57:19,075 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-11 19:57:19,086 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-11 19:57:31,454 - INFO - HuggingFaceHub google/flan-t5-large model initialized successfully
+2025-05-11 19:57:34,083 - ERROR - Generation Error: Model 'google/flan-t5-large' doesn't support task 'text2text-generation'.
+2025-05-11 19:58:36,664 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-11 19:59:12,805 - INFO - HuggingFaceHub google/flan-t5-large model initialized successfully
+2025-05-11 19:59:19,448 - INFO - HuggingFaceHub google/flan-t5-large model initialized successfully
+2025-05-11 19:59:19,935 - ERROR - Generation Error: Model 'google/flan-t5-large' doesn't support task 'text2text-generation'.
+2025-05-11 20:02:13,010 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-11 20:12:52,763 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-11 20:12:56,333 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:12:56,535 - INFO - Use pytorch device_name: cpu
+2025-05-11 20:12:56,535 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-11 20:12:56,919 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-11 20:12:59,563 - INFO - Loading faiss with AVX2 support.
+2025-05-11 20:12:59,609 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-11 20:12:59,623 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-11 20:13:09,247 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:13:35,618 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:14:17,874 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:19:58,623 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:20:06,203 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:20:06,348 - INFO - Retrieved documents: [Document(page_content='[s 309.5] Euthanasia.—', metadata={'source': 'data\\ipc_law.txt'}), Document(page_content='THE INDIAN PENAL CODE\n\nCHAPTER IV GENERAL EXCEPTIONS', metadata={'source': 'data\\ipc_law.txt'}), Document(page_content='THE INDIAN PENAL CODE\n\nCHAPTER IV GENERAL EXCEPTIONS', metadata={'source': 'data\\ipc_law.txt'})]
+2025-05-11 20:20:20,326 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:20:20,512 - INFO - Retrieved documents: [Document(page_content='The section constitutes a substantive offence.94.', metadata={'source': 'data\\ipc_law.txt'}), Document(page_content='[s 384.3] Threat of criminal accusation.—', metadata={'source': 'data\\ipc_law.txt'}), Document(page_content='[s 84.1] McNaughten Rule and the origin of Section 84 of IPC, 1860.—', metadata={'source': 'data\\ipc_law.txt'})]
+2025-05-11 20:20:30,084 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:20:30,221 - INFO - Retrieved documents: [Document(page_content='THE INDIAN PENAL CODE', metadata={'source': 'data\\ipc_law.txt'}), Document(page_content='THE INDIAN PENAL CODE', metadata={'source': 'data\\ipc_law.txt'}), Document(page_content='THE INDIAN PENAL CODE', metadata={'source': 'data\\ipc_law.txt'})]
+2025-05-11 20:20:38,393 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:20:38,542 - INFO - Retrieved documents: [Document(page_content='THE INDIAN PENAL CODE\n\nCHAPTER IV GENERAL EXCEPTIONS', metadata={'source': 'data\\ipc_law.txt'}), Document(page_content='THE INDIAN PENAL CODE\n\nCHAPTER IV GENERAL EXCEPTIONS', metadata={'source': 'data\\ipc_law.txt'}), Document(page_content='THE INDIAN PENAL CODE\n\nCHAPTER IV GENERAL EXCEPTIONS', metadata={'source': 'data\\ipc_law.txt'})]
+2025-05-11 20:21:52,681 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:21:52,821 - INFO - Use pytorch device_name: cpu
+2025-05-11 20:21:52,822 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-11 20:21:53,131 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-11 20:21:55,094 - INFO - Loading faiss with AVX2 support.
+2025-05-11 20:21:55,138 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-11 20:21:55,151 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-11 20:23:41,708 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:23:50,553 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:23:50,635 - INFO - LLM Input: {'question': 'hi', 'chat_history': 'user: hi'}
+2025-05-11 20:24:10,614 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:24:10,691 - INFO - LLM Input: {'question': 'theft', 'chat_history': "user: hi\nassistant: I don't know.\nuser: theft"}
+2025-05-11 20:38:58,581 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:38:59,076 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:39:05,706 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:39:05,763 - INFO - LLM Input: {'question': 'yoyoyo', 'chat_history': 'user: yoyoyo'}
+2025-05-11 20:39:47,764 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:39:47,824 - INFO - LLM Input: {'question': 'hi', 'chat_history': "user: yoyoyo\nassistant: I don't know.\nuser: hi"}
+2025-05-11 20:39:49,856 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:39:49,955 - INFO - LLM Input: {'question': 'hello', 'chat_history': "user: yoyoyo\nassistant: I don't know.\nuser: hi\nuser: hello"}
+2025-05-11 20:40:04,572 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:40:04,633 - INFO - LLM Input: {'question': 'what are the sections under theft', 'chat_history': "user: yoyoyo\nassistant: I don't know.\nuser: hi\nuser: hello\nassistant: I don't know.\nuser: what are the sections under theft"}
+2025-05-11 20:48:14,569 - WARNING - Some parameters are on the meta device because they were offloaded to the disk and cpu.
+2025-05-11 20:48:14,745 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:48:35,941 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:48:36,229 - INFO - Retrieved Documents:
+2025-05-11 20:48:36,229 - INFO -   --- Document 1 ---
+2025-05-11 20:48:36,230 - INFO -   Content: offence,83. and ordinarily the sentence should be under the special Act.84. This is, however, confined to cases where the offences are coincident or practically so.85. The Supreme Court issued specific guidelines regarding the interpretation of general law and special law. See the Box below for these Guidelines. Supreme Court Guidelines on Interpretation of General law and Special law
+2025-05-11 20:48:36,230 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:48:36,230 - INFO -   --- Document 2 ---
+2025-05-11 20:48:36,230 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER IX OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+
+This chapter deals with two classes of offences, of which one can be committed by public servants alone, and the other comprises offences which relate to public servants, though they are not committed by them. Deletion of provisions.—Sectio ns 161–165A stand omitted by the Prevention of Corruption Act, 1988, section 31 (w.e.f. 9 September 1988). The relevant portion from the Statement of Objects and Reasons appended to the Prevention of Corruption Act, 1988 relating to the omission of sections 161 to 165A of Indian Penal Code, 1860 (IPC, 1860) is given below: 3. The Bill inter alia, envisages widening the scope of the definition of the expression
+2025-05-11 20:48:36,232 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:48:36,232 - INFO -   --- Document 3 ---
+2025-05-11 20:48:36,232 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER IX OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS
+
+This chapter deals with two classes of offences, of which one can be committed by public servants alone, and the other comprises offences which relate to public servants, though they are not committed by them. Deletion of provisions.—Sectio ns 161–165A stand omitted by the Prevention of Corruption Act, 1988, section 31 (w.e.f. 9 September 1988). The relevant portion from the Statement of Objects and Reasons appended to the Prevention of Corruption Act, 1988 relating to the omission of sections 161 to 165A of Indian Penal Code, 1860 (IPC, 1860) is given below: 3. The Bill inter alia, envisages widening the scope of the definition of the expression
+2025-05-11 20:48:36,233 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:48:36,285 - INFO - LLM Input: {'question': 'what are the acts under theft', 'context': 'offence,83. and ordinarily the sentence should be under the special Act.84. This is, however, confined to cases where the offences are coincident or practically so.85. The Supreme Court issued specific guidelines regarding the interpretation of general law and special law. See the Box below for these Guidelines. Supreme Court Guidelines on Interpretation of General law and Special law\nTHE INDIAN PENAL CODE\n\nCHAPTER IX OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS\n\nThis chapter deals with two classes of offences, of which one can be committed by public servants alone, and the other comprises offences which relate to public servants, though they are not committed by them. Deletion of provisions.—Sectio ns 161–165A stand omitted by the Prevention of Corruption Act, 1988, section 31 (w.e.f. 9 September 1988). The relevant portion from the Statement of Objects and Reasons appended to the Prevention of Corruption Act, 1988 relating to the omission of sections 161 to 165A of Indian Penal Code, 1860 (IPC, 1860) is given below: 3. The Bill inter alia, envisages widening the scope of the definition of the expression\nTHE INDIAN PENAL CODE\n\nCHAPTER IX OF OFFENCES BY OR RELATING TO PUBLIC SERVANTS\n\nThis chapter deals with two classes of offences, of which one can be committed by public servants alone, and the other comprises offences which relate to public servants, though they are not committed by them. Deletion of provisions.—Sectio ns 161–165A stand omitted by the Prevention of Corruption Act, 1988, section 31 (w.e.f. 9 September 1988). The relevant portion from the Statement of Objects and Reasons appended to the Prevention of Corruption Act, 1988 relating to the omission of sections 161 to 165A of Indian Penal Code, 1860 (IPC, 1860) is given below: 3. The Bill inter alia, envisages widening the scope of the definition of the expression'}
+2025-05-11 20:48:51,176 - ERROR - Generation Error: One input key expected got ['question', 'context']
+2025-05-11 20:49:06,014 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:49:06,169 - INFO - Retrieved Documents:
+2025-05-11 20:49:06,169 - INFO -   --- Document 1 ---
+2025-05-11 20:49:06,169 - INFO -   Content: THE INDIAN PENAL CODE
+2025-05-11 20:49:06,169 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:49:06,170 - INFO -   --- Document 2 ---
+2025-05-11 20:49:06,170 - INFO -   Content: THE INDIAN PENAL CODE
+2025-05-11 20:49:06,170 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:49:06,171 - INFO -   --- Document 3 ---
+2025-05-11 20:49:06,171 - INFO -   Content: THE INDIAN PENAL CODE
+2025-05-11 20:49:06,171 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:49:06,176 - INFO - LLM Input: {'question': 'hi', 'context': 'THE INDIAN PENAL CODE\nTHE INDIAN PENAL CODE\nTHE INDIAN PENAL CODE'}
+2025-05-11 20:49:11,349 - ERROR - Generation Error: One input key expected got ['question', 'context']
+2025-05-11 20:50:30,655 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:50:30,830 - INFO - Retrieved Documents:
+2025-05-11 20:50:30,830 - INFO -   --- Document 1 ---
+2025-05-11 20:50:30,831 - INFO -   Content: [s 309.5] Euthanasia.—
+2025-05-11 20:50:30,831 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:50:30,831 - INFO -   --- Document 2 ---
+2025-05-11 20:50:30,831 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER IV GENERAL EXCEPTIONS
+2025-05-11 20:50:30,832 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:50:30,832 - INFO -   --- Document 3 ---
+2025-05-11 20:50:30,832 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER IV GENERAL EXCEPTIONS
+2025-05-11 20:50:30,833 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:50:30,836 - INFO - LLM Input: {'question': 'hello', 'context': '[s 309.5] Euthanasia.—\nTHE INDIAN PENAL CODE\n\nCHAPTER IV GENERAL EXCEPTIONS\nTHE INDIAN PENAL CODE\n\nCHAPTER IV GENERAL EXCEPTIONS'}
+2025-05-11 20:50:36,116 - ERROR - Generation Error: One input key expected got ['question', 'context']
+2025-05-11 20:53:08,563 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:53:13,907 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:53:13,980 - INFO - LLM Input: {'question': 'hi', 'chat_history': 'user: hi'}
+2025-05-11 20:53:20,833 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:53:20,906 - INFO - LLM Input: {'question': 'hello', 'chat_history': "user: hi\nassistant: I don't know.\nuser: hello"}
+2025-05-11 20:53:38,529 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:53:38,606 - INFO - LLM Input: {'question': 'what are the sections under theft', 'chat_history': "user: hi\nassistant: I don't know.\nuser: hello\nassistant: I don't know.\nuser: what are the sections under theft"}
+2025-05-11 20:54:55,334 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:55:00,574 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:55:00,762 - INFO - Retrieved Documents:
+2025-05-11 20:55:00,762 - INFO -   --- Document 1 ---
+2025-05-11 20:55:00,763 - INFO -   Content: The Indian Penal Code (PB), 36th ed
+2025-05-11 20:55:00,763 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:55:00,764 - INFO -   --- Document 2 ---
+2025-05-11 20:55:00,764 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER IV GENERAL EXCEPTIONS
+2025-05-11 20:55:00,764 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:55:00,765 - INFO -   --- Document 3 ---
+2025-05-11 20:55:00,765 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER IV GENERAL EXCEPTIONS
+2025-05-11 20:55:00,765 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:55:00,771 - INFO - LLM Input: {'question': 'Define theft according to the IPC', 'chat_history': 'user: Define theft according to the IPC'}
+2025-05-11 20:55:23,076 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 20:55:23,246 - INFO - Retrieved Documents:
+2025-05-11 20:55:23,246 - INFO -   --- Document 1 ---
+2025-05-11 20:55:23,246 - INFO -   Content: commit the robbery while under section 302 of the IPC, 1860 even one person by himself can commit the offence of murder. But, as already noticed, to attract the provisions of section 396, the offence of 'dacoity' must be coupled with murder. In other words, the ingredients of section 302 becomes an integral part of the offences punishable under section 396 of the IPC, 1860.314.
+2025-05-11 20:55:23,246 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:55:23,247 - INFO -   --- Document 2 ---
+2025-05-11 20:55:23,247 - INFO -   Content: of the offence under the section as follows: The gist of the offence under section 153-A is the intention to promote feelings of enmity or hatred between different classes of people. The intention to cause disorder or incite the people to violence is the sine qua non of the offence under section 153-A IPC, 1860, and the prosecution has to prove prima facie the existence of mens rea on the part of the accused. The intention has to be judged primarily by the language of the book and the circumstances in which the book was written and published. The matter complained of to fall within the ambit of section 153-A must be read as a whole. One
+2025-05-11 20:55:23,247 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:55:23,247 - INFO -   --- Document 3 ---
+2025-05-11 20:55:23,247 - INFO -   Content: of the offence under the section as follows: The gist of the offence under section 153-A is the intention to promote feelings of enmity or hatred between different classes of people. The intention to cause disorder or incite the people to violence is the sine qua non of the offence under section 153-A IPC, 1860, and the prosecution has to prove prima facie the existence of mens rea on the part of the accused. The intention has to be judged primarily by the language of the book and the circumstances in which the book was written and published. The matter complained of to fall within the ambit of section 153-A must be read as a whole. One
+2025-05-11 20:55:23,248 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 20:55:23,253 - INFO - LLM Input: {'question': 'What are the elements of cheating under the IPC', 'chat_history': "user: Define theft according to the IPC\nassistant: I don't know.\nuser: What are the elements of cheating under the IPC"}
+2025-05-11 21:27:31,882 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 21:27:32,057 - INFO - Use pytorch device_name: cpu
+2025-05-11 21:27:32,057 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-11 21:27:32,329 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-11 21:27:34,607 - INFO - Loading faiss with AVX2 support.
+2025-05-11 21:27:34,685 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-11 21:27:34,694 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-11 21:39:19,364 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 21:39:21,101 - INFO - Retrieved Documents:
+2025-05-11 21:39:21,101 - INFO -   --- Document 1 ---
+2025-05-11 21:39:21,102 - INFO -   Content: THE INDIAN PENAL CODE
+2025-05-11 21:39:21,102 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 21:39:21,102 - INFO -   --- Document 2 ---
+2025-05-11 21:39:21,102 - INFO -   Content: THE INDIAN PENAL CODE
+2025-05-11 21:39:21,102 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 21:39:21,102 - INFO -   --- Document 3 ---
+2025-05-11 21:39:21,102 - INFO -   Content: THE INDIAN PENAL CODE
+2025-05-11 21:39:21,102 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 21:39:21,106 - INFO - LLM Input: {'question': 'hi', 'chat_history': 'user: hi'}
+2025-05-11 21:39:34,869 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 21:39:34,992 - INFO - Retrieved Documents:
+2025-05-11 21:39:34,993 - INFO -   --- Document 1 ---
+2025-05-11 21:39:34,993 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER XIV OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY CONVENIENCE, DECENCY AND MORALS The following specific instances of nuisance are dealt with in this Chapter:—
+2025-05-11 21:39:34,993 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 21:39:34,993 - INFO -   --- Document 2 ---
+2025-05-11 21:39:34,993 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER XIV OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY CONVENIENCE, DECENCY AND MORALS The following specific instances of nuisance are dealt with in this Chapter:—
+2025-05-11 21:39:34,993 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 21:39:34,994 - INFO -   --- Document 3 ---
+2025-05-11 21:39:34,994 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER XIV OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY CONVENIENCE, DECENCY AND MORALS The following specific instances of nuisance are dealt with in this Chapter:—
+2025-05-11 21:39:34,994 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 21:39:34,997 - INFO - LLM Input: {'question': 'what are the sections under theft', 'chat_history': "user: hi\nassistant: I don't know.\nuser: what are the sections under theft"}
+2025-05-11 21:43:42,421 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 21:43:42,585 - INFO - Use pytorch device_name: cpu
+2025-05-11 21:43:42,585 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-11 21:43:42,904 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-11 21:43:45,199 - INFO - Loading faiss with AVX2 support.
+2025-05-11 21:43:45,233 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-11 21:43:45,243 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-11 22:14:49,508 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 22:14:49,647 - INFO - Use pytorch device_name: cpu
+2025-05-11 22:14:49,647 - INFO - Load pretrained SentenceTransformer: law-ai/InLegalBERT
+2025-05-11 22:14:50,021 - WARNING - No sentence-transformers model found with name law-ai/InLegalBERT. Creating a new one with mean pooling.
+2025-05-11 22:14:51,635 - INFO - Loading faiss with AVX2 support.
+2025-05-11 22:14:51,664 - INFO - Successfully loaded faiss with AVX2 support.
+2025-05-11 22:14:51,674 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-05-11 22:14:53,703 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 22:15:00,239 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 22:15:01,807 - INFO - Retrieved Documents:
+2025-05-11 22:15:01,807 - INFO -   --- Document 1 ---
+2025-05-11 22:15:01,807 - INFO -   Content: [s 309.5] Euthanasia.—
+2025-05-11 22:15:01,807 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 22:15:01,807 - INFO -   --- Document 2 ---
+2025-05-11 22:15:01,808 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER IV GENERAL EXCEPTIONS
+2025-05-11 22:15:01,808 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 22:15:01,808 - INFO -   --- Document 3 ---
+2025-05-11 22:15:01,808 - INFO -   Content: THE INDIAN PENAL CODE
+
+CHAPTER IV GENERAL EXCEPTIONS
+2025-05-11 22:15:01,808 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 22:15:01,811 - INFO - LLM Input: {'question': 'hello', 'chat_history': 'user: hello'}
+2025-05-11 22:15:20,606 - INFO - HuggingFace Flan-T5-large model initialized successfully
+2025-05-11 22:15:20,735 - INFO - Retrieved Documents:
+2025-05-11 22:15:20,735 - INFO -   --- Document 1 ---
+2025-05-11 22:15:20,735 - INFO -   Content: The section constitutes a substantive offence.94.
+2025-05-11 22:15:20,735 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 22:15:20,735 - INFO -   --- Document 2 ---
+2025-05-11 22:15:20,736 - INFO -   Content: [s 384.3] Threat of criminal accusation.—
+2025-05-11 22:15:20,736 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 22:15:20,736 - INFO -   --- Document 3 ---
+2025-05-11 22:15:20,736 - INFO -   Content: [s 84.1] McNaughten Rule and the origin of Section 84 of IPC, 1860.—
+2025-05-11 22:15:20,736 - INFO -   Metadata: {'source': 'data\\ipc_law.txt'}
+2025-05-11 22:15:20,738 - INFO - LLM Input: {'question': 'what is constituition', 'chat_history': "user: hello\nassistant: I don't know.\nuser: what is constituition"}

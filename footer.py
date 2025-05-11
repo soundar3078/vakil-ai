@@ -59,7 +59,7 @@ def layout(*args):
 
 def footer():
     myargs = [
-        "Made with ❤️ by Nikhil, Mihir, Nilay",
+        "Made with ❤️ ALGO ARMY",
     ]
     layout(*myargs)
 
